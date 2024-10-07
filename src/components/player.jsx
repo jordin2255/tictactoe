@@ -31,4 +31,5 @@ export default function Player({ initialName, symbol, isActive,onChangeName }) {
       </button>
     </li>
   );
+  
 }
